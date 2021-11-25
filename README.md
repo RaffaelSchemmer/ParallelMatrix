@@ -1,5 +1,7 @@
 __Assume-se para este tutorial que o computador configurado possui arquitetura de máquina multicore de 64bits (x86-64).__
 
+<img alt="GoStack" src="https://boydjohnson.dev/blog/concurrency-matrix-multiplication/matrix-multiplication-good.gif" />
+
 C (Flags para compilação):
 ========
 
